@@ -179,7 +179,7 @@ These were the engineered columns
 
 # For More Information
 See the full analysis in the Jupyter Notebook or review this presentation.
-Contact me at 
+Contact me at: 
 [Linkedin](https://www.linkedin.com/in/western-onzere-ml17/)
 
 ![alt text](<Pictures/Pasted image (2).png>)
